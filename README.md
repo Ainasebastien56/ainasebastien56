@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Madagascar</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on my recent project : Food-Blog<br><br>🌱 I’m currently learning Artificial Intelligence with Machine Learning<br><br>👨‍💻 All of my projects are available at https://aina-sebastien.vercel.app/<br><br>💬 Ask me about Angular, Vue<br><br>📫 How to reach me sebastienrandriamanana3@gmail.com<br>
+🔭 I’m currently working on my recent project : Food-Blog<br><br>🌱 I’m currently learning Artificial Intelligence with Machine Learning<br><br>👨‍💻 All of my projects are available at https://aina-sebastien.vercel.app/<br><br>💬 Ask me about Angular, Vue<br><br>📫
 
 
 ## 🌐 Socials:
