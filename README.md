@@ -42,7 +42,6 @@ A responsive product landing page developed during freeCodeCamp, featuring an ec
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/sebastienrandriamanana)
 - [Portfolio](https://portfolio-sebastien-randriamanana.vercel.app)
 
 ---
