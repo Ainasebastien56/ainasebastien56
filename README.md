@@ -40,6 +40,24 @@ A responsive product landing page developed during freeCodeCamp, featuring an ec
 
 ---
 
+## 🌐 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/sebastienrandriamanana)
+- [Portfolio](https://portfolio-sebastien-randriamanana.vercel.app)
+
+---
+
+## 🎵 Fun Facts
+
+- I love singing—I'm a proud choir boy!
+- Soccer fan: I enjoy playing with friends whenever I can.
+
+---
+
+> "Web development is my passion. Every new challenge is an opportunity to grow."
+
+---
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/aina.mahomie/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lovasoa_aina/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastienrandriamanana/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sebastienrandriamanana3@gmail.com) 
 
