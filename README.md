@@ -16,7 +16,7 @@ I'm passionate about web development and always eager to learn new things and ta
 
 - **Frontend:** JavaScript, HTML, CSS, Angular, Tailwind CSS
 - **Backend:** NodeJS, Fast API
-- **API Testing:** Insomnia
+- **API Testing:** Insomnia, Postman
 - **Scientific Computing:** Python
 - **Responsive Design:** Modern UI practices
 
