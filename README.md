@@ -15,7 +15,7 @@ I'm passionate about web development and always eager to learn new things and ta
 ## 🛠️ Skills & Technologies
 
 - **Frontend:** JavaScript, HTML, CSS, Angular, Tailwind CSS
-- **Backend:** NodeJS, Fast API
+- **Backend:** NodeJS, Java Spring Boot, Fast API
 - **API Testing:** Insomnia, Postman
 - **Scientific Computing:** Python
 - **Responsive Design:** Modern UI practices
