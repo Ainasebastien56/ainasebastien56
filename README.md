@@ -22,24 +22,6 @@ I'm passionate about web development and always eager to learn new things and ta
 
 ---
 
-## 🚀 Featured Projects
-
-### [Free Stock Image Finder](https://github.com/Ainasebastien56/portfolio-Sebastien-Randriamanana)
-A web app that lets users search and download high-quality images, integrated with the Pixabay API for endless free visual content.  
-*Angular, Tailwind CSS, REST API*  
-*Showcases my frontend and Angular skills.*
-
-### [Food Blog](https://github.com/Ainasebastien56/landing-page)
-A modern, responsive food blog built with Angular and Tailwind CSS.  
-*Highlights my expertise in frontend development and responsive design.*
-
-### [Eco Bottle](https://github.com/Ainasebastien56/technical-documentation)
-A responsive product landing page developed during freeCodeCamp, featuring an eco-friendly reusable bottle.  
-*HTML, CSS*  
-*Demonstrates my skills in responsive design and creative product presentation.*
-
----
-
 ## 🌐 Connect With Me
 
 - [Portfolio](https://portfolio-sebastien-randriamanana.vercel.app)
